@@ -1,6 +1,8 @@
-<head>
-  <meta name="google-site-verification" content="COlMAfsp1xwqfWbl79p5o2XvEHniOEdmFxU0hE0SwHg" />
-</head>
+<html>
+  <head>
+    <meta name="google-site-verification" content="COlMAfsp1xwqfWbl79p5o2XvEHniOEdmFxU0hE0SwHg" />
+  </head>
+</html>
 
 # GrofLex
 
