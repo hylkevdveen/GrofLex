@@ -1,3 +1,7 @@
+<head>
+  <meta name="google-site-verification" content="COlMAfsp1xwqfWbl79p5o2XvEHniOEdmFxU0hE0SwHg" />
+</head>
+
 # GrofLex
 
 GRoninger OFfensive Lexicon (GrofLex) is a Dutch lexicon of abusive lemmas. It is created for a Bachelor Thesis in Information Science, at the University of Groningen. GrofLex is based on [HurtLex NL 1.2](https://github.com/valeriobasile/hurtlex/tree/master/lexica/NL/1.2).
